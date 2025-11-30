@@ -23,7 +23,7 @@ body {
     sans-serif;
   line-height: 1.5;
   background-color: rgb(0, 0, 0);
-  color: #ffffff;
+  color: #163936;
 }
 .logo {
   width: 80px;
@@ -209,7 +209,7 @@ body {
   margin-top: 1.25rem !important;
 }
 .mt-5 {
-  margin-top: 1.5rem !important;
+  margin-top: 40% !important;
 }
 .mb-1 {
   margin-bottom: 0.25rem !important;
@@ -510,7 +510,7 @@ body {
   font-size: 64px;
 }
 .text-d {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 .list-style-none {
   list-style: none;
